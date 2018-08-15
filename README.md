@@ -1,5 +1,5 @@
 # multiEllipsis v1.0.0
-한줄만 처리가능했던 말줄임을 이제 여러줄 말줄임을 할 수 있습니다.
+한줄만 처리가능했던 말줄임을 여러줄 말줄임을 할 수 있습니다.
 
 ## 사용법
 line-height * 줄 = height 또는 max-height 
