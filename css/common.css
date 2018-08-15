@@ -5,3 +5,6 @@
 .multi_ellipsis:before, .multi_ellipsis:after {display:inline-block; position:absolute; right:0; width:12px; height:20px; text-align:left; font-family:sans-serif;}
 .multi_ellipsis:before {bottom:0; content:'...';}
 .multi_ellipsis:after {background-color:#fff; content:'';}
+
+/* 크롬 */
+/* .multi_ellipsis {display:-webkit-box; overflow:hidden; position:relative; -webkit-box-orient:vertical;} */

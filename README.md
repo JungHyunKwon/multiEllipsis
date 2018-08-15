@@ -7,5 +7,8 @@ line-height * 줄 = height 또는 max-height
 ## 유의사항
 배경이 단색이 아닐경우 사용불가 합니다.
 
+## 플러그인
+<https://github.com/FrDH/jQuery.dotdotdot>
+
 ## 브라우저 지원
 ie8이상 그 이외 브라우저 모두 지원합니다.
